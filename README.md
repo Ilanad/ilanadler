@@ -1,12 +1,7 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
+# Welcome to Ilan Adler CV Site - Based on [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
-
-## Preview
-
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+[Ilan Adler](https:/ilanadler.space/) is a resume and CV site. Find out more about Ilan on the site itself, or connect on [Linkedin](https://www.linkedin.com/in/adlerilan).
+This was built on top of [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). 
 
 ## Status
 
@@ -52,7 +47,7 @@ You must have npm installed in order to use this build environment.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
 
-## About
+## Learn more about Start Bootstrap
 
 Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
