@@ -1,6 +1,6 @@
 # Welcome to Ilan Adler CV Site - Based on [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
-[Ilan Adler](https:/ilanadler.space/) is a resume and CV site. Find out more about Ilan on the site itself, or connect on [Linkedin](https://www.linkedin.com/in/adlerilan).
+[Ilan Adler](https://ilanadler.space/) is a resume and CV site. Find out more about Ilan on the site itself, or connect on [Linkedin](https://www.linkedin.com/in/adlerilan).
 This was built on top of [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). 
 
 ## Status
