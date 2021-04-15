@@ -1,0 +1,85 @@
+doctype html
+html(lang='en')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', content='Films.')
+        meta(name='author', content='Ilan Adler')
+        meta(name='image', property="og:image" content="assets/img/profile.jpg")
+
+        title It's Ilan Adler | Films
+
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.ico')
+
+        // Google Tag Manager
+        script.
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KVRN25W');
+        // End Google Tag Manager
+
+        // Font Awesome icons (free version)
+        script(src='https://use.fontawesome.com/releases/v5.15.1/js/all.js', crossorigin='anonymous')
+
+        // Google fonts
+        link(href='https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:400,700', rel='stylesheet', type='text/css')
+        link(href='https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i', rel='stylesheet', type='text/css')
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+
+    body#page-top
+        // Google Tag Manager (noscript)
+        noscript
+            iframe(src='https://www.googletagmanager.com/ns.html?id=GTM-KVRN25W' height='0' width='0' style='display: none; visibility: hidden;')
+
+        // Navigation
+        nav#sideNav.navbar.navbar-expand-lg.navbar-dark.bg-primary.fixed-top
+            a.navbar-brand.js-scroll-trigger(hrlan Adleref='#page-top')
+                span.d-block.d-lg-none Films
+                span.d-none.d-lg-block
+                    img.img-fluid.img-profile.rounded-circle.mx-auto.mb-2(src='assets/img/profile.jpg', alt='Ilan Adler')
+            button.navbar-toggler(type='button', data-toggle='collapse', data-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
+                span.navbar-toggler-icon
+            #navbarSupportedContent.collapse.navbar-collapse
+                ul.navbar-nav
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#list') The List
+
+        // Page Content
+        .container-fluid.p-0
+
+            // list
+            section#about.resume-section
+                .resume-section-content
+                    h1.mb-0
+                        | List of 
+                        span.text-primary Films
+                    .subheading.mb-5
+                        | That Ilan likes
+                    p.lead.mb-5
+                        | Once Upon a Time in the West
+                        br
+                        | Terminator 2: Judgement Day
+                        br
+                        br
+                        | Apocalypse Now
+                        br
+                        br
+                        | City of God
+
+            hr.m-0
+
+        // Bootstrap core JS
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js')
+        script(src='https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js')
+
+        // Third party plugin JS
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js')
+
+        // Core theme JS
+        script(src='js/scripts.js')
